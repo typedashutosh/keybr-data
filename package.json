@@ -1,0 +1,25 @@
+{
+  "name": "keybr-stats",
+  "version": "1.0.0",
+  "description": "An application to extract stats from Keybr",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typedashutosh/keybr-stats.git"
+  },
+  "keywords": [
+    "Keybr",
+    "stats"
+  ],
+  "author": "Ashutosh kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typedashutosh/keybr-stats/issues"
+  },
+  "homepage": "https://github.com/typedashutosh/keybr-stats#readme"
+}
